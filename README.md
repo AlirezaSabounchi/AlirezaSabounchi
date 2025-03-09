@@ -45,17 +45,16 @@ I am keen to collaborate on projects that involve:
 
 Feel free to reach out if you're interested in discussing research, potential collaborations, or just want to chat about the latest advancements in AI and drug design!
 
-
-## 📈 GitHub Stats
-
-![Alireza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlirezaSabounchi&show_icons=true&theme=radical)
-
 Thank you for visiting my profile!
 
 
 <!---
 AlirezaSabounchi/AlirezaSabounchi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes. 
+
+## 📈 GitHub Stats
+
+![Alireza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlirezaSabounchi&show_icons=true&theme=radical)
 ## 🧬 Featured Projects
 
 - **DeepAffinity**: A deep learning model for predicting protein-ligand binding affinities. [GitHub Repository](https://github.com/AlirezaSabounchi/DeepAffinity)
