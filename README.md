@@ -38,4 +38,4 @@ I'm keen to collaborate on projects that involve:
 - Creating open-source tools that facilitate computational biology research.
 - Exploring interdisciplinary applications of AI in healthcare and biotechnology.
 
-For more information, check out my [webpage](https://Ali Rezasabounchi.github.io/)
+For more information, check out my [webpage](https://alirezasabounchi.github.io/)
