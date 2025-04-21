@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Alireza Sabounchi
+# 👋 Hello, I'm Ali Reza Sabounchi
 
 I'm a graduate student at Sharif University of Technology, currently specializing in [bioinformatics](https://en.wikipedia.org/wiki/Bioinformatics). My academic journey began with a bachelor's in [survey engineering](https://en.wikipedia.org/wiki/Surveying); however, my passion for coding, biology, and chemistry inspired me to change course and pursue a field that perfectly blends these interests.
 
@@ -38,4 +38,4 @@ I'm keen to collaborate on projects that involve:
 - Creating open-source tools that facilitate computational biology research.
 - Exploring interdisciplinary applications of AI in healthcare and biotechnology.
 
-For more information, check out my [webpage](https://alirezasabounchi.github.io/)
+For more information, check out my [webpage](https://Ali Rezasabounchi.github.io/)
