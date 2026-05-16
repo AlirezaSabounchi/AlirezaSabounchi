@@ -1,19 +1,21 @@
 # Ali Reza Sabounchi
 
-Graduate student at Sharif University of Technology, specializing in [bioinformatics](https://en.wikipedia.org/wiki/Bioinformatics). I hold a B.Sc. in [survey engineering](https://en.wikipedia.org/wiki/Surveying) and transitioned to bioinformatics to integrate programming with biology and chemistry.
+Master's graduate from Sharif University of Technology, specializing in [bioinformatics](https://en.wikipedia.org/wiki/Bioinformatics). I hold a B.Sc. in [survey engineering](https://en.wikipedia.org/wiki/Surveying), but eventually decided to transitioned to bioinformatics to integrate programming with biology and chemistry, simply because I like them more :)
 
 ## Research Interests
 
+Some areas that I have experience with and am particularly interested in inlcude:
 - **AI for drug design** — end-to-end deep learning approaches for drug discovery and optimization.  
-- **Protein–ligand interactions** — computational prediction of binding affinities.  
-- **Representation learning** — molecular representations using language models and chemical fingerprints.
+- **Protein–ligand interactions** — explainable computational prediction of binding affinities.  
+- **Representation learning** — information-rich molecular representations using language models and chemical fingerprints.
+- **Generative Molecular Design** — using generative models to design biologically active, synthetically plausible drug candidates.
 
-## Current Work
+## Experience
 
-Thesis research focused on protein–ligand affinity prediction using deep learning, including:
-- Design and training of neural network architectures for binding affinity prediction.  
-- Integration of language models and cheminformatics for improved molecular representations.  
-- Evaluation on benchmark datasets and curated molecular data.
+My thesis research focused on protein–ligand affinity prediction using deep learning, including:
+- Designing chemical structures from desired scaffolds (based on existing synthetic routes)
+- Using neural network architectures for binding affinity prediction.  
+- Integration of language models and cheminformatics for improved molecular representations.
 
 ## Technical Skills
 
@@ -21,16 +23,6 @@ Thesis research focused on protein–ligand affinity prediction using deep learn
 - **Machine learning:** PyTorch, scikit-learn  
 - **Data analysis:** pandas, NumPy, Matplotlib  
 - **Molecular modeling:** RDKit, Open Babel, VMD, Spartan, Gaussian, Discovery Studio, AutoDock
-
-## Professional Development
-
-Currently expanding expertise in advanced deep learning methods (attention mechanisms, graph neural networks) and computational chemistry and cheminformatics.
-
-## Collaboration
-
-Interested in collaborations involving:
-- AI-driven drug discovery, repurposing, and molecular property prediction.  
-- Open-source tool development for computational biology.  
-- Interdisciplinary applications of AI in healthcare and biotechnology.
+- **Version Control:** Git, GitHub
 
 For more information, check out my [webpage](https://alirezasabounchi.github.io/)
