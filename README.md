@@ -5,10 +5,10 @@ Master's graduate from Sharif University of Technology, specializing in [bioinfo
 ## Research Interests
 
 Some areas that I have experience with and am particularly interested in inlcude:
-- **AI for drug design** — end-to-end deep learning approaches for drug discovery and optimization.  
-- **Protein–ligand interactions** — explainable computational prediction of binding affinities.  
-- **Representation learning** — information-rich molecular representations using language models and chemical fingerprints.
-- **Generative Molecular Design** — using generative models to design biologically active, synthetically plausible drug candidates.
+- **AI for drug design** : end-to-end deep learning approaches for drug discovery and optimization.  
+- **Protein–ligand interactions** : explainable computational prediction of binding affinities.  
+- **Representation learning** : information-rich molecular representations using language models and chemical fingerprints.
+- **Generative Molecular Design** : using generative models to design biologically active, synthetically plausible drug candidates.
 
 ## Experience
 
