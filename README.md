@@ -1,28 +1,86 @@
-# Ali Reza Sabounchi
++--------------------------------------+
+|           BIOCOMPUTE TERMINAL        |
+|                                      |
+|           ALI REZA SABOUNCHI         |
+|                                      |
+| AI • BIOINFORMATICS • DRUG DISCOVERY |
++--------------------------------------+
+## > whoami
 
-Master's graduate from Sharif University of Technology, specializing in [bioinformatics](https://en.wikipedia.org/wiki/Bioinformatics). I hold a B.Sc. in [survey engineering](https://en.wikipedia.org/wiki/Surveying), but eventually decided to transitioned to bioinformatics to integrate programming with biology and chemistry, simply because I like them more :)
+```console
+$ whoami
 
-## Research Interests
+Ali Reza Sabounchi
 
-Some areas that I have experience with and am particularly interested in inlcude:
-- **AI for drug design** : end-to-end deep learning approaches for drug discovery and optimization.  
-- **Protein–ligand interactions** : explainable computational prediction of binding affinities.  
-- **Representation learning** : information-rich molecular representations using language models and chemical fingerprints.
-- **Generative Molecular Design** : using generative models to design biologically active, synthetically plausible drug candidates.
+$ education
 
-## Experience
+M.Sc. Bioinformatics
+Sharif University of Technology
 
-My thesis research focused on protein–ligand affinity prediction using deep learning, including:
-- Designing chemical structures from desired scaffolds (based on existing synthetic routes)
-- Using neural network architectures for binding affinity prediction.  
-- Integration of language models and cheminformatics for improved molecular representations.
+B.Sc. Survey Engineering
 
-## Technical Skills
+$ current_focus
 
-- **Languages:** Python, R (basic)  
-- **Machine learning:** PyTorch, scikit-learn  
-- **Data analysis:** pandas, NumPy, Matplotlib  
-- **Molecular modeling:** RDKit, Open Babel, VMD, Spartan, Gaussian, Discovery Studio, AutoDock
-- **Version Control:** Git, GitHub
+AI-driven Drug Discovery
 
-For more information, check out my [webpage](https://alirezasabounchi.github.io/)
+$ interests
+
+Protein–Ligand Modeling
+Generative Drug Design
+Representation Learning
+```
+## Current Research
+
+```text
+[✓] AI for Drug Design
+
+[✓] Protein–Ligand Prediction
+
+[✓] Molecular Language Models
+
+[✓] Generative Molecular Design
+```
+
+## Skills
+![Static Badge](https://img.shields.io/badge/Python-green)
+![Static Badge](https://img.shields.io/badge/PyTorch-red)
+![Static Badge](https://img.shields.io/badge/RDKit-blue)
+![Static Badge](https://img.shields.io/badge/NumPy-brown)
+![Static Badge](https://img.shields.io/badge/pandas-yellow)
+![Static Badge](https://img.shields.io/badge/Git-gray)
+![Static Badge](https://img.shields.io/badge/Microsoft_Excel-lightgreen)
+
+
+
+
+<p align="center">
+
+<img height="165"
+src="https://github-readme-stats.vercel.app/api?username=AlirezaSabounchi&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="165"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlirezaSabounchi&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=AlirezaSabounchi&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=AlirezaSabounchi&style=for-the-badge&color=blue"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=AlirezaSabounchi&theme=tokyonight&no-frame=true"/>
+
+</p>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AlirezaSabounchi&theme=tokyo-night">
+
+
