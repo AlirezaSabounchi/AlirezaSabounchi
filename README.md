@@ -1,10 +1,13 @@
-+--------------------------------------+
-|           BIOCOMPUTE TERMINAL        |
-|                                      |
-|           ALI REZA SABOUNCHI         |
-|                                      |
-| AI • BIOINFORMATICS • DRUG DISCOVERY |
-+--------------------------------------+
+```console
+╔══════════════════════════════════════════════╗
+║          BIOCOMPUTE TERMINAL v1.0           ║
+╠══════════════════════════════════════════════╣
+║ USER    : Ali Reza Sabounchi                ║
+║ STATUS  : ONLINE                            ║
+║ ROLE    : Bioinformatics x ML Researcher    ║
+║ FOCUS   : AI × Drug Discovery               ║
+╚══════════════════════════════════════════════╝
+```
 ## > whoami
 
 ```console
