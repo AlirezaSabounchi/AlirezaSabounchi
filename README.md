@@ -53,34 +53,6 @@ Representation Learning
 ![Static Badge](https://img.shields.io/badge/Git-gray)
 ![Static Badge](https://img.shields.io/badge/Microsoft_Excel-lightgreen)
 
-
-
-<p align="center">
-
-<img height="165"
-src="https://github-readme-stats.vercel.app/api?username=AlirezaSabounchi&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="165"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlirezaSabounchi&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=AlirezaSabounchi&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=AlirezaSabounchi&style=for-the-badge&color=blue"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AlirezaSabounchi&theme=tokyonight&no-frame=true"/>
-
 </p>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlirezaSabounchi&theme=tokyo-night">
