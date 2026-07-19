@@ -1,11 +1,11 @@
 ```console
 ╔══════════════════════════════════════════════╗
-║          BIOCOMPUTE TERMINAL v1.0           ║
+║          BIOCOMPUTE TERMINAL v1.0            ║
 ╠══════════════════════════════════════════════╣
-║ USER    : Ali Reza Sabounchi                ║
-║ STATUS  : ONLINE                            ║
-║ ROLE    : Bioinformatics x ML Researcher    ║
-║ FOCUS   : AI × Drug Discovery               ║
+║ USER    : Ali Reza Sabounchi                 ║
+║ STATUS  : ONLINE                             ║
+║ ROLE    : Bioinformatics x ML Researcher     ║
+║ FOCUS   : AI × Drug Discovery                ║
 ╚══════════════════════════════════════════════╝
 ```
 ## > whoami
@@ -52,7 +52,6 @@ Representation Learning
 ![Static Badge](https://img.shields.io/badge/pandas-yellow)
 ![Static Badge](https://img.shields.io/badge/Git-gray)
 ![Static Badge](https://img.shields.io/badge/Microsoft_Excel-lightgreen)
-
 
 
 
