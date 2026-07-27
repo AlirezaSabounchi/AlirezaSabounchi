@@ -4,8 +4,7 @@
 ╠══════════════════════════════════════════════╣
 ║ USER    : Ali Reza Sabounchi                 ║
 ║ STATUS  : ONLINE                             ║
-║ ROLE    : Bioinformatics x ML Researcher     ║
-║ FOCUS   : AI × Drug Discovery                ║
+║ ROLE    : Bioinformatics x ML Researcher     ║             ║
 ╚══════════════════════════════════════════════╝
 ```
 ## > whoami
